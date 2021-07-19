@@ -18,7 +18,7 @@
 #
 # See ./remote_test.sh for usage example.
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 LABEL maintainer="Shanqing Cai <cais@google.com>"
 
