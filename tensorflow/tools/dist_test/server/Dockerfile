@@ -17,7 +17,7 @@
 #
 # To build the image, use ../build_server.sh
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 LABEL maintainer="Shanqing Cai <cais@google.com>"
 
